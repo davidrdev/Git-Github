@@ -18,3 +18,11 @@ p {
     text-justify: auto;
     color: white
 }
+
+a {
+    color: white;
+}
+
+li {
+    color: aqua;
+}
