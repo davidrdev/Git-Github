@@ -1,0 +1,28 @@
+body {
+    font-family: Roboto, cursive, sans-serif;
+    margin: 40px;
+    max-width: 1120px;
+	background: linear-gradient(150deg, #000000, #9e00ff)  no-repeat;
+    background-size: 170% 600%;
+}
+    
+h1 {
+    border: 100%;
+    color: rgb(187, 187, 187);
+    padding: auto;
+    
+}
+
+p {
+    font-size: 20px;
+    text-justify: auto;
+    color: white
+}
+
+a {
+    color: white;
+}
+
+li {
+    color: aqua;
+}
